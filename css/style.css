@@ -89,3 +89,17 @@ body {
   position: sticky;
   top: 40px;
 }
+
+.ellipsis {
+  width: 80px;
+  text-overflow:ellipsis; 
+  white-space: nowrap; 
+  overflow:hidden; 
+  font-size: 12px;
+  padding-left: 2px;
+}
+
+.story-right {
+  margin-right: -5px;
+}
+
